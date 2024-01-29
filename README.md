@@ -46,7 +46,8 @@ INSTALLATION
 
 
 
-Gallery Showcase|===========================================================================
+GALLERY
+------------------------------------------------------------------------------------------
 
 ![mh4scr1](https://github.com/xl3lackout/MH4HDUI/assets/45904365/fa34c985-0e85-4aa9-abe0-2404cd2f1710)
 ![mh4scr2](https://github.com/xl3lackout/MH4HDUI/assets/45904365/7451d25a-1ae2-437e-b551-a971ae48e9ec)
