@@ -1,3 +1,5 @@
+![UI Project Logo](https://github.com/xl3lackout/MH4HDUI/assets/45904365/dcfc1c92-497b-4bc8-8e3e-0103880a5d1f)
+
 A 4x texture pack for MH4u, drawn by me, with 0 AI upscaled or imported assets (excluding promotional material like the MH4u logo).
 This is a project I work on in my spare time, progress can be very inconsistent. Please be patient, and understanding that this pack is a major WIP. Certain textures can be unfinished, this repo is less to advertise completed releases, and more to compile changes as they happen.
 
@@ -15,8 +17,6 @@ BACKGROUND PANELS |##------------------| ~10%
 LOADING SCREENS   |####----------------| ~20%
 
 FONT              |#############-------| ~65%
-
-![mh4title](https://github.com/xl3lackout/MH4HDUI/assets/45904365/b1ada715-da43-4345-b1d1-62b34b2c8474)
 
 
 INSTALLATION
