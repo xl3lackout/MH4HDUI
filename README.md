@@ -1,9 +1,24 @@
-A 4x texture pack for MH4u
+A 4x texture pack for MH4u, drawn by me, with 0 AI upscaled or imported assets (excluding promotional material like the MH4u logo).
+This is a project I work on in my spare time, progress can be very inconsistent. Please be patient, and understanding that this pack is a major WIP. Certain textures can be unfinished, this repo is less to advertise completed releases, and more to compile changes as they happen.
+
+CURRENT ESTIMATED PROGRESS
+-----------------------------------------------------------------------------------------------------------
+
+These are extremely rough estimates for certain areas of the pack, they may change at any time.
+
+HUNT UI           |##################--| ~90%
+
+ICONS             |######--------------| ~30%
+
+BACKGROUND PANELS |##------------------| ~10%
+
+LOADING SCREENS   |####----------------| ~20%
 
 ![mh4title](https://github.com/xl3lackout/MH4HDUI/assets/45904365/b1ada715-da43-4345-b1d1-62b34b2c8474)
 
 
-|INSTALLATION|===========================================================================
+INSTALLATION
+-----------------------------------------------------------------------------------------------------------
 
 1) You will want to download the pack by hitting the green code button in the top right, and then hit download zip.
    ![mh4inst1](https://github.com/xl3lackout/MH4HDUI/assets/45904365/339754b0-d60a-41c1-85c8-c4f68fc79c92)
