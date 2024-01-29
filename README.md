@@ -14,6 +14,8 @@ BACKGROUND PANELS |##------------------| ~10%
 
 LOADING SCREENS   |####----------------| ~20%
 
+FONT              |#############-------| ~65%
+
 ![mh4title](https://github.com/xl3lackout/MH4HDUI/assets/45904365/b1ada715-da43-4345-b1d1-62b34b2c8474)
 
 
