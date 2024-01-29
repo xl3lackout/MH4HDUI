@@ -3,7 +3,7 @@ A 4x texture pack for MH4u
 ![mh4title](https://github.com/xl3lackout/MH4HDUI/assets/45904365/b1ada715-da43-4345-b1d1-62b34b2c8474)
 
 
-|INSTALLATION|==============================================================================
+|INSTALLATION|===========================================================================
 
 1) You will want to download the pack by hitting the green code button in the top right, and then hit download zip.
    ![mh4inst1](https://github.com/xl3lackout/MH4HDUI/assets/45904365/339754b0-d60a-41c1-85c8-c4f68fc79c92)
@@ -31,7 +31,7 @@ A 4x texture pack for MH4u
 
 
 
-Gallery Showcase|==============================================================================
+Gallery Showcase|===========================================================================
 
 ![mh4scr1](https://github.com/xl3lackout/MH4HDUI/assets/45904365/fa34c985-0e85-4aa9-abe0-2404cd2f1710)
 ![mh4scr2](https://github.com/xl3lackout/MH4HDUI/assets/45904365/7451d25a-1ae2-437e-b551-a971ae48e9ec)
