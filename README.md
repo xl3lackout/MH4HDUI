@@ -18,6 +18,16 @@ LOADING SCREENS   |####----------------| ~20%
 
 FONT              |#############-------| ~65%
 
+REGARDING CONTRIBUTIONS
+-----------------------------------------------------------------------------------------------------------
+A large part of the reason I'm doing this pack is for myself; to grow as an artist, and to personally complete something I've wanted to do for a long time.
+
+So, if someone were to make contributions to this pack, I would unfortunately have to decline.
+
+I really don't want people to feel like their work is inadequite, or to go through all of that effort just for me to decline it. I'm just likely to make my own version of every sprite and texture, I'm too nitpicky about the visual consistency.
+However, that's just regarding pull requests. If you have an issue with the look of things, or want to make your own additions for yourself and the community to enjoy, and you want to make a fork? You're more than welcome to, I encourage it!
+
+This repo is under creative commons license, you're free to do whatever you want to it so long as you give an attribute.
 
 INSTALLATION
 -----------------------------------------------------------------------------------------------------------
