@@ -10,7 +10,7 @@ These are extremely rough estimates for certain areas of the pack, they may chan
 
 HUNT UI           |##################--| ~90%
 
-ICONS             |######--------------| ~30%
+ICONS             |##########----------| ~50%
 
 BACKGROUND PANELS |##------------------| ~10%
 
